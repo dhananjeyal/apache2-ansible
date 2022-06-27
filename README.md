@@ -1,2 +1,3 @@
-# apache2-ansible
-apache2-ansible
+#Command:-
+
+ansible-playbook --connection=local -i inventory.yml playbook.yml
